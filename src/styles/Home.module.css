@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  background-size: auto;
+}
+.container1 {
+  width: 500px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 35px;
+  text-align: center;
+  margin: auto;
+  margin-top: 4%;
+  color: black;
+  background-color: gray;
+  background-size: cover;
+  font-family: "Century Gothic", sans-serif;
+}
+.banner-image {
+  width: 500px;
+  height: 200px;
+}
+.blog-title {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+.nav-link {
+  color: white;
+  display: inline;
+  padding: 10px;
+}
+.header {
+  display: flex;
+  height: 100px;
+  background-color: gray;
+}
+.navigation {
+  margin-left: 80vw;
+}
+
+.icon {
+  margin-left: 45vw;
+}
+@media (max-width: 1200px) {
+  .navigation {
+    margin-left: 75vw;
+  }
+}
+
+@media (max-width: 760px) {
+  .navigation {
+    margin-left: 65vw;
+  }
+  .container1 {
+    width: 250px;
+  }
+}
+@media (max-width: 600px) {
+  .container1 {
+    width: 200px;
+  }
+}
