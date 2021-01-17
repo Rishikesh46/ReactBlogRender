@@ -1,5 +1,5 @@
 import { Component } from "react";
-import { blogsUrl, fetchData } from "../api/fetchData";
+import { blogsUrl, fetchData } from "../apiCall/fetchData";
 import { Link } from "react-router-dom";
 let message = "***";
 

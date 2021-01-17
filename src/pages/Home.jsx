@@ -1,5 +1,5 @@
 import { Component } from "react";
-import { blogsUrl, fetchData } from "../api/fetchData";
+import { blogsUrl, fetchData } from "../apiCall/fetchData";
 import BlogCard from "../components/BlogCard";
 import Navigation from "../components/Navigation";
 import Footer from "../components/Footer";
@@ -14,7 +14,7 @@ class Home extends Component {
       this.setState({ blogs: [...blogs] });
       console.log(blogs);
     } catch (err) {
-      console.log("", err);
+      console.log("error", err);
     }
   };
   render() {

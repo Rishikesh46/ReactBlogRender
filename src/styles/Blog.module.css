@@ -26,10 +26,11 @@
 }
 
 .blog-container {
-  margin-top: 2vh;
+  margin-top: 20vh;
   display: flex;
-  flex-direction: row;
+  flex-direction: row-reverse;
   margin-bottom: 2vh;
+  margin-left: 3vw;
 }
 .blog-container1 {
   margin-left: 17vw;

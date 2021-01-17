@@ -1,5 +1,5 @@
 import { Component } from "react";
-import { blogsUrl, fetchData } from "../api/fetchData";
+import { blogsUrl, fetchData } from "../apiCall/fetchData";
 import { Link } from "react-router-dom";
 import Navigation from "../components/Navigation";
 import Footer from "../components/Footer";
@@ -50,7 +50,6 @@ class Blog extends Component {
                 alt="blog"
               />
             </div>
-
             <h2 className={styles["blog-title"]}> Title:{blog.title}</h2>
             <p className={styles["blog-content"]}>{blog.content}</p>
           </div>
