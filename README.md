@@ -18,6 +18,17 @@
 
 4.to run : npm run start
 
+## References
+
+- [Getting started with React](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
+
+- [React Routing Tutorial ](https://youtu.be/Law7wfdg_ls)
+
+- [React Routing](https://reactrouter.com/)
+
+- [Css Modules](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/)
+
+
 ## Demo
 
 https://react-blog-render-one.vercel.app/
