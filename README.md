@@ -1,3 +1,26 @@
+## Introduction
+
+Created a Blog-Rendering website with help of react application.
+
+Data is fetched from backend hosted on heroku
+
+The home page consist of blogs which can render through each links.
+
+With the help of related links you can render through different blogs.
+
+## How to start
+
+In Vscode terminal type: git clone
+
+npm i
+
+to run : npm run start
+
+## Demo
+
+https://react-blog-render-one.vercel.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,10 +28,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
-##Demo
-
-https://react-blog-render-one.vercel.app/
 
 ### `npm start`
 
