@@ -1,4 +1,4 @@
-// import Link from "next/link";
+
 import { Link } from "react-router-dom";
 import styles from "../styles/Home.module.css";
 
