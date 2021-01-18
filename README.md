@@ -1,20 +1,20 @@
 ## Introduction
 
-Created a Blog-Rendering website with help of react application.
+- Created a Blog-Rendering website with help of react application.
 
-Data is fetched from backend hosted on heroku
+- Data is fetched from backend hosted on heroku
 
-The home page consist of blogs which can render through each links.
+- The home page consist of blogs which can render through each links.
 
-With the help of related links you can render through different blogs.
+- With the help of related links you can render through different blogs.
 
 ## How to start
 
-In Vscode terminal type: git clone
+1.In Vscode terminal type: git clone
 
-npm i
+2.npm i
 
-to run : npm run start
+3.to run : npm run start
 
 ## Demo
 
