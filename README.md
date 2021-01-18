@@ -14,7 +14,9 @@
 
 2.npm i
 
-3.to run : npm run start
+3. install react-router-dom 
+
+4.to run : npm run start
 
 ## Demo
 
