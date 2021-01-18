@@ -4,7 +4,7 @@
 
 - Data is fetched from backend hosted on heroku
 
-- The home page consist of blogs which can render through each links.
+- The home page consist of blogs which can render.
 
 - With the help of related links you can render through different blogs.
 
