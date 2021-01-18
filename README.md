@@ -10,7 +10,7 @@
 
 ## How to start
 
-1.In Vscode terminal type: git clone
+1.In Vscode terminal type: git clone https://github.com/Rishikesh46/ReactBlogRender.git
 
 2.npm i
 
