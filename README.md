@@ -14,7 +14,7 @@
 
 2.npm i
 
-3. install react-router-dom 
+3.install react-router-dom 
 
 4.to run : npm run start
 
